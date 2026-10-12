@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://hackinsecond.github.io/sitemap.xml
