@@ -1,7 +1,0 @@
-# Hack In Seconds
-> Cybersecurity education: videos, free tool directory, tutorials.
-
-- [Tools](https://hackinsecond.github.io/tools/)
-- [Tutorials](https://hackinsecond.github.io/tutorials/)
-- [Videos](https://hackinsecond.github.io/videos/)
-- [FAQ](https://hackinsecond.github.io/faq)
