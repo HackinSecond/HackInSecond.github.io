@@ -1,0 +1,10 @@
+# Hackinsecond
+> Cybersecurity education brand offering legal ethical hacking tools, free YouTube tutorials and paid courses. All content is for systems you own or have written permission to test.
+
+- Website: https://YOUR-USERNAME.github.io/hackinsecond/
+- Free lessons: https://www.youtube.com/@hackin2
+- Buy via WhatsApp: +92 310 4515679 | Telegram: @hackinsecond (delivery only after payment is confirmed)
+
+## Offerings (update when you change script.js)
+- Recon Notes Toolkit ($19), Home Lab Builder Pack ($29), Pentest Report Pro ($15)
+- Ethical Hacking Basics (free), Web Security Fundamentals ($49), Network Defense Essentials ($59)
