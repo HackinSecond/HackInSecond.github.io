@@ -43,7 +43,7 @@ const COURSES = [
 const FREE = [
   { id:"yt", type:"free", name:"Watch on YouTube", price:0,
     desc:"Free tutorials, tool walkthroughs and security news on the Hackinsecond channel.",
-    features:["Subscribe for updates","Tutorials in simple language"], img:"", link:SITE.youtube, cta:"Open channel" },
+    features:["Subscribe for updates","Tutorials in simple language"], img:"og-image.jpg", link:SITE.youtube, cta:"Open channel" },
     // add 
   { id:"roadmap", type:"free", name:"Beginner Cybersecurity Roadmap", price:0,
     desc:"What to learn first, free platforms to practice on, and how to stay legal while learning.",
