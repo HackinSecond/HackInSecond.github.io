@@ -13,7 +13,7 @@ const SITE = {
   formspree: "https://formspree.io/f/mvkzqyjr",
   url: "HackInSecond.github.io/"   // used for search-engine listing data
 };
-const PHRASES = ["Ethical hacking tools", "Free YouTube tutorials", "Hands-on security courses", "Legal. Authorized. Practical."];
+const PHRASES = ["Hacking tools", "Free YouTube tutorials", "Hands-on security courses", "Legal. Authorized. Practical."];
 
 // Paid tools. Only list legal tools used on systems you own or have written permission to test.
 const TOOLS = [
@@ -31,7 +31,7 @@ const TOOLS = [
 const COURSES = [
   { id:"ethical-101", type:"free", name:"Ethical Hacking Basics", price:0,
     desc:"Free beginner series on YouTube covering core concepts, legal boundaries and terminology.",
-    features:["Video lessons","Beginner friendly","Legal & ethical focus"], img:"", link:SITE.youtube, cta:"Watch free" },
+    features:["Video lessons","Beginner friendly","Legal & ethical focus"], img:"ethical-hacking.webp", link:SITE.youtube, cta:"Watch free" },
   { id:"web-sec", type:"paid", name:"Web Security Fundamentals", price:49,
     desc:"Learn how common web flaws work and how to fix them, using practice labs you control.",
     features:["Hands-on labs","Certificate of completion","Private support chat"], img:"" },
