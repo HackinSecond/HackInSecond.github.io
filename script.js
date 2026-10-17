@@ -9,6 +9,7 @@ const SITE = {
   whatsapp: "923104515679",            // digits only, with country code
   whatsappShow: "WhatsApp",
   telegram: "Hackinsecon",
+  telegramShow: "Hack In Second",
   youtube: "https://www.youtube.com/@hackin2",
   formspree: "https://formspree.io/f/mvkzqyjr",
   url: "HackInSecond.github.io/"   // used for search-engine listing data
