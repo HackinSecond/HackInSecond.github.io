@@ -56,15 +56,46 @@ const TOOLS = [
     type: "paid",
     name: "Black Hat Hacking",
     price: 5,
-    desc: "Cybersecurity video series covering security concepts, malware analysis, phishing awareness, digital forensics, and lab preparation. For legal, authorized learning only.",
-    features: [
-      "30 Video Lessons",
-      "Cybersecurity Concepts",
-      "Malware Analysis and Forensics",
-      "Phishing Awareness",
-      "Virtual Lab Preparation"
-    ],
-    img: "ethical-hacking.webp",
+      desc: `Best Black Hat — Complete Video Series
+
+1. Introduction_To_Course
+2. Labs_Prepration
+3. Carding
+4. Malwares_Introduction
+5. Trojans_Prectical
+6. Trojan_Icon_Changing
+7. Introduction_to_VPS
+8. Hacking_From_Internet_VPS_
+9. AV_Working
+10. AV_Bypassing
+11. Ransomwares
+12. Malware_Forensics
+13. Trojans_with_Science
+14. Silent_Exploits
+15. Phishing_Basics
+16. Phishing_Manually
+17. Phishing_Hosting
+18. Email_Extraction
+19. Cat_Phishing
+20. Identity_Hiding
+21. Identity Hiding 2
+22. Identity Hiding 3
+23. Calling Scams
+24. Tips and Experience
+25. Social Engineering
+26. Social Engineering 2
+27. Social Engineering 3
+28. SMTP Introduction
+29. Cpanel SMTP
+30. Next Steps in Black Hat`,
+   features: [
+    "30 Video Lessons",
+    "Black Hat Series",
+    "Malware and Forensics",
+    "Phishing and Social Engineering",
+    "VPS and SMTP Topics"
+  ],
+    img: "",
     cta: "Go To PRO"
   },
   {
