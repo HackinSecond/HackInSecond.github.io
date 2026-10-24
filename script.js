@@ -56,7 +56,7 @@ const TOOLS = [
     type: "paid",
     name: "Black Hat Hacking",
     price: 5,
-      desc: `Best Black Hat Hacking Complete Video Series Introduction To Course, Labs Prepration, Carding, Malwares Introduction, Trojans Prectical, Trojan Icon Changing, Introduction To VPS, Hacking From Internet VPS, AV Working, AV Bypassing, Ransomwares, Malware Forensics, Trojans with Science, Silent Exploits, Phishing Complete, Email Extraction, Cat Phishing, Identity Hiding, Identity Hiding, Identity Hiding, Calling Scams, Tips and Experience, Social Engineering, SMTP Introduction, Cpanel SMTP, Next Steps in Black Hat`,
+      desc: `Video Series Intro, Labs, Carding, Malwares, Trojans, Hacking From Internet VPS, Antivirus Bypassing, Ransomwares, Malware, Silent Exploits, Phishing, Email, Identity Hiding, Calling Scams, Tips, Social Engineering, Cpanel SMTP, Next Steps in Black Hat`,
    features: [
     "30 Video with tools",
     "Black Hat Hacking Series",
