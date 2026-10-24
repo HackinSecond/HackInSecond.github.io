@@ -26,30 +26,17 @@ const PHRASES = [
 // Paid tools
 const TOOLS = [
   {
-    id: "recon-kit",
+    id: "888 Rat",
     type: "paid",
-    name: "Recon Notes Toolkit",
-    price: 19,
-    desc: "Organized templates and scripts to document authorized reconnaissance in your own lab.",
+    name: "888 RAT ( Remote Access Trojans )",
+    price: 3,
+    desc: "A RAT is a tool that we use to Hack Divices like mobile, computer etc.",
     features: [
-      "Report templates",
-      "Lab checklist",
-      "Lifetime updates"
+      "This Rat can Hack",
+      "Window / Linux",
+      "Android / IOS"
     ],
-    img: ""
-  },
-  {
-    id: "lab-builder",
-    type: "paid",
-    name: "Home Lab Builder Pack",
-    price: 29,
-    desc: "Step-by-step setup of a safe, isolated practice lab with intentionally vulnerable machines.",
-    features: [
-      "VM setup guides",
-      "Network diagrams",
-      "Practice targets list"
-    ],
-    img: ""
+    img: "888.webp"
   },
   {
     id: "best-black-hat",
@@ -64,7 +51,7 @@ const TOOLS = [
     "Phishing and Social Engineering",
     "VPS and SMTP Topics"
   ],
-    img: "",
+    img: "ethical-hacking.webp",
     cta: "Go To PRO"
   },
   {
@@ -95,54 +82,14 @@ const COURSES = [
       "Beginner friendly",
       "Legal & ethical focus"
     ],
-    img: "ethical-hacking.webp",
+    img: "logo.webp",
     link: SITE.youtube,
     cta: "Watch free"
   },
-  {
-    id: "web-sec",
-    type: "paid",
-    name: "Web Security Fundamentals",
-    price: 49,
-    desc: "Learn how common web vulnerabilities work and how to fix them using practice labs you control.",
-    features: [
-      "Hands-on labs",
-      "Certificate of completion",
-      "Private support chat"
-    ],
-    img: ""
-  },
-  {
-    id: "net-def",
-    type: "paid",
-    name: "Network Defense Essentials",
-    price: 59,
-    desc: "Learn monitoring, hardening and incident response basics for small networks and home offices.",
-    features: [
-      "Defense playbooks",
-      "Lab exercises",
-      "Community access"
-    ],
-    img: ""
-  }
 ];
 
 // Free resources
 const FREE = [
-  {
-    id: "yt",
-    type: "free",
-    name: "Watch on YouTube",
-    price: 0,
-    desc: "Free tutorials, tool walkthroughs and security news on the Hackinsecond channel.",
-    features: [
-      "Subscribe for updates",
-      "Tutorials in simple language"
-    ],
-    img: "og-image.jpg",
-    link: SITE.youtube,
-    cta: "Open channel"
-  },
   {
     id: "roadmap",
     type: "free",
