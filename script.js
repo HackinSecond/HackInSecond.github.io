@@ -65,8 +65,7 @@ const TOOLS = [
     "Malware and Forensics",
     "Phishing and Social Engineering",
     "VPS and SMTP Topics"
-  ],
-  img: "ethical-hacking.webp", cta: "Go To PRO"},
+  ], img: ""},
   { id:"report-pro", type:"paid", name:"Pentest Report Pro", price:15,
     desc:"Professional report and scope-agreement templates for authorized security assessments.",
     features:["Word + PDF templates","Scope & permission form","Severity rating guide"], img:"2.webp" }
