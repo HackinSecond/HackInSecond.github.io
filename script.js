@@ -1,4 +1,4 @@
-/* ============================================================
+a/* ============================================================
    HACKINSECOND: script.js
    PART 1 is the ONLY part you normally edit: business info, listings, typing phrases.
    To add a product: copy one {...} block, paste it in the list, change the text.
@@ -25,6 +25,49 @@ const TOOLS = [
     desc:"Step-by-step setup of a safe, isolated practice lab with intentionally vulnerable machines.",
     features:["VM setup guides","Network diagrams","Practice targets list"], img:"" },
     // addd
+
+   { id: "best-black-hat", type: "paid", name: "Black Hat Hacking", price: 5,
+  desc: `Black Hat PRO level — Complete Video Series
+
+1. Introduction To Course
+2. Labs Prepration
+3. Carding
+4. Malwares Introduction
+5. Trojans Prectical
+6. Trojan Icon Changing
+7. Introduction to VPS
+8. Hacking From Internet VPS
+9. AV Working
+10. AV Bypassing
+11. Ransomwares
+12. Malware Forensics
+13. Trojans with Science
+14. Silent Exploits
+15. Phishing Basics
+16. Phishing Manually
+17. Phishing Hosting
+18. Email Extraction
+19. Cat Phishing
+20. Identity Hiding
+21. Identity Hiding 2
+22. Identity Hiding 3
+23. Calling Scams
+24. Tips and Experience
+25. Social Engineering
+26. Social Engineering 2
+27. Social Engineering 3
+28. SMTP Introduction
+29. Cpanel SMTP
+30. Next Steps in Black Hat`,
+  features: [
+    "30 Video Lessons",
+    "Black Hat Series",
+    "Malware and Forensics",
+    "Phishing and Social Engineering",
+    "VPS and SMTP Topics"
+  ],
+  img: "ethical-hacking.webp", cta: "Go To PRO" 
+   }
   { id:"report-pro", type:"paid", name:"Pentest Report Pro", price:15,
     desc:"Professional report and scope-agreement templates for authorized security assessments.",
     features:["Word + PDF templates","Scope & permission form","Severity rating guide"], img:"2.webp" }
